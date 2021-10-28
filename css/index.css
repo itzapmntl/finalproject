@@ -55,7 +55,7 @@ nav a:link{
   text-decoration-line: none;
   text-decoration-style: none;
 }
-/*navbar hover links*/
+/*navbar hover*/
 nav a:hover{
   color: #8989ba;
 }
@@ -96,14 +96,14 @@ section .moon{
   padding-left: 100%;
   padding-right: 100%;
 }
-
+/*my heroimage namecheap.com*/
 .hero img{
   width: 100%;
-  /*border: solid;*/
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+/*namecheap.com*/
 .wolf{
   text-align: center;
   border: none;
@@ -111,11 +111,10 @@ section .moon{
   }
 .creating
 {
-  /*background-color: #8989ba;*/
   text-align: center;
   margin-bottom: 15px;
 }
-/*gallary*/
+/*gallary codepen.io*/
 .gallery {
   display: flex;
   position: absolute;
@@ -171,12 +170,6 @@ section .moon{
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
   transition: 0.3s;
 }
-/*footer {
-  text-align: center;
-  padding: 3px;
-  background-color: #8989ba;
-  color: lavender;
-}*/
 
 footer{
   padding: 0px;
@@ -194,8 +187,8 @@ footer p2{
  text-align: end;
  position: fixed;
  clear: both;
- margin-top: 78px;
- margin-left: -90px;
+ margin-top: 80px;
+ margin-left: -100px;
 }
 footer img {
  position: fixed;
